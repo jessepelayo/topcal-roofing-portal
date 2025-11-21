@@ -7,7 +7,7 @@ const App = () => {
       <h1>TopCal Roofing Portal</h1>
       <p>Your portal is live and ready to connect to the backend!</p>
       <p>
-        API test: <a href="https://YOUR_RENDER_BACKEND_URL/" target="_blank">Backend status</a>
+        API test: <a href="https://topcal-roofing-portal.onrender.com/" target="_blank">Backend status</a>
       </p>
     </div>
   );
